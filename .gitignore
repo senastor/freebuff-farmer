@@ -1,0 +1,44 @@
+# =============================================================
+# DATA PENTING — jangan pernah commit
+# =============================================================
+
+# Akun GitHub (email:password:username) & hasil farming
+accounts.txt
+accounts.*.txt
+accounts.failed.txt
+skipped.txt
+pool*.txt
+*_pool.txt
+used_*.txt
+hme_pool*.txt
+
+# Token freebuff & kredensial
+tokens.txt
+freebuff_credentials.json
+*.token
+auth_link.txt
+credentials.json
+
+# Cookie & session
+cookies/
+session*.json
+*.cookies
+state.json
+
+# Output / log / screenshot
+logs/
+screenshots/
+results/
+*.log
+
+# Konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/

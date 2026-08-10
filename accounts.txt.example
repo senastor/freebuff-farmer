@@ -1,0 +1,7 @@
+# Format: email:password:username  (satu per baris)
+# Baris diawali # = komentar, diabaikan.
+#
+# Ganti dengan akun GitHub kamu sendiri.
+# JANGAN commit file ini (sudah di .gitignore).
+#
+# you@example.com:your_password:your_username
